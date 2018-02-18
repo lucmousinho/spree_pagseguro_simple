@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.description = s.summary
   s.required_ruby_version = '>= 2.0.0'
 
-  s.author    = 'Denis Antoniazzi Tierno'
+  s.author    = 'Denis Antoniazzi Tierno, Lucas Mousinho'
   s.email     = 'contato@locomotiva.pro'
   s.homepage  = 'http://locomotiva.pro'
 

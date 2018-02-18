@@ -1,4 +1,4 @@
-class CreateSpreePagSeguroTransactions < ActiveRecord::Migration
+class CreateSpreePagSeguroTransactions < SpreeExtension::Migration[4.2]
   def change
     create_table :spree_pag_seguro_transactions do |t|
       t.string :email
